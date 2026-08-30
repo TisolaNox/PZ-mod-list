@@ -34,6 +34,12 @@ Si vous voulez créer physiquement et au niveau des talents votre personnage en 
 * *Relancez votre jeu* pour que le chargement des mods soit bien pris en compte. ( des mods de cosmetiques demandent de faire l'action :man_shrugging:)
 * Lancer une partie solo avec les mods et sauvegarder vos préférences de création à chaque étape en bas à gauche de l'interface.
 
+💡 Note sur la création de personnage
+
+Lors de la création de votre personnage, vous pouvez valider vos traits même si votre solde affiche *-2 points*.
+Le serveur est configuré pour offrir *2 points bonus*. 
+
+
 ### 🌐 3. Informations de connexion
 Une fois votre jeu relancé avec les mods activés, allez dans *Multijoueur* et ajoutez notre serveur avec ces informations :
 * IP / Host : custom94700.freeboxos.fr
